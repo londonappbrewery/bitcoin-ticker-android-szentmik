@@ -7,12 +7,12 @@
 
     <string-array name="currency_array">
         <item>AUD</item>
-        <item>BRL</item>
         <item>CAD</item>
         <item>CNY</item>
         <item>EUR</item>
         <item>GBP</item>
         <item>HKD</item>
+        <item>HUF</item>
         <item>JPY</item>
         <item>PLN</item>
         <item>RUB</item>
